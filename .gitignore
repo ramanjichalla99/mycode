@@ -3,7 +3,7 @@
  DS_Store
 #Windows-os
  Thums.db
-#JARFiles
+#JARFile
  *.jar
 
 [abc]*.txt
